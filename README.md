@@ -1,7 +1,7 @@
-### Hi there 👋
-#### I am Praweg.
+### Hi there 👋 Praweg here
 
-#### Welcome to my digital workshop. 
+#### Welcome to my digital workshop.
+This is my Personal Repository . I have mostly Flutter projects and few React/NextJS projects.
 
 - 🔭 I’m currently working on: 
 1) my portfolio/tech-Blog with NextJS & Notion.
