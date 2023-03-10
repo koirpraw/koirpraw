@@ -9,7 +9,7 @@ This is my Personal Repository .My repo consists mostly Flutter projects and few
    
 - 🌱 I’m currently learning React/NextJS
 
-- 👯 I’m looking to collaborate on: Flutter(mobile) & ReactJS projects.
+<!-- - 👯 I’m looking to collaborate on: Flutter(mobile) & ReactJS projects. -->
 
 <!-- - 🤔 I’m looking for help with : Node.js backend application with sql db - host/deploy in aws  -->
 - 📫 How to reach me: koirpraw at gmail dot com
