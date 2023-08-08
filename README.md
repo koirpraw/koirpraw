@@ -7,7 +7,7 @@ This is my Personal Repository .My repo consists of Flutter,React, NextJS & Node
    1) My portfolio/blog website - with NextJS & Notion.
    2) Helapy: A Fitness/wellness tracking app - with Flutter.
    
-- 🌱 I’m currently spending most of my time working on React/NextJS, NodeJS, MongoDB & AWS tools.
+- 🌱 I have been currently spending most of my time working on React/NextJS, NodeJS, MongoDB & AWS tools.
 
 - 📫 How to reach me: koirpraw at gmail dot com
 
