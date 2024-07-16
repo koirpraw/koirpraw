@@ -6,7 +6,9 @@ I am not attached to particular language, framework or technique so this might c
 I consider myself curious and creative person. I learn by doing things, so i am constantly tinkering with things to learn.
 I have been programming and enjoying coding for just couple years now. But i have been hooked to this limitless source of dopamine. I am pretty sure i will still be digging for more in years to come aswell ;)
 
-I have been recenlty working on API series with Node.JS with all possible variation. I am using these projects to build different all possible stacks to build FullStack Web Appliactions ( MERN, PERN ..etc). If you are new to Web development you might find these series helpful.
+I have been recenlty working on API series with Node.JS with all possible combinations. I am using these projects to build different possible stacks to build FullStack Web Appliactions ( MERN, PERN ..etc). If you are new to Web development you might find these series helpful.
+
+If you would like to know more about me, checkout my [personal site](prawegko.dev) or checkout my technical blog articles @ [code and curious](codeandcurious.com)
 
 ### 🔭 I’m currently working on: 
    1) Creating Content for my Blog Site [code and curious](codeandcurious.com)
