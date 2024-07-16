@@ -20,10 +20,9 @@ If you would like to know more about me or my work, checkout my [personal site](
 - Python - Automation/scripting.
 - GraphQL
 
-   
-- 🌱 I have been currently spending most of my time working on React/NextJS, NodeJS, MongoDB & AWS tools.
 
-- 📫 How to reach me: koirpraw at gmail dot com
 
-- ⚡ Fun fact: I am a self taught programer | I am a Passionate wood🪚worker | I ❤️ to 🏃🏽
+#### 📫 How to reach me: koirpraw at gmail dot com
+
+#### ⚡ Fun fact: I am a self taught programer | I am a Passionate wood🪚worker | I ❤️ to 🏃🏽
 
