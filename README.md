@@ -13,7 +13,8 @@ If you would like to know more about me or my work, checkout my [personal site](
 ### 🔭 I’m currently working on: 
    1) Creating Content for my Blog Site [code and curious](codeandcurious.com)
    2) Honing DSA skills with python on JupyterNotebook.
-   3) Improving my technical writing skills and good documentation practice
+   3) Improving my technical writing skills and good documentation practice.
+   4) Prepping video content for the Published Blog Articles for Youtube Channel(Yet to start).
 
 ### Currently Learning:
 - Python - Web Frameworks ( Fast API, Django/Django Rest Framework)
