@@ -8,7 +8,7 @@ I have been programming and enjoying coding for just couple years now. But i hav
 
 I have been recenlty working on API series with Node.JS with all possible combinations. I am using these projects to build different possible stacks to build FullStack Web Appliactions ( MERN, PERN ..etc). If you are new to Web development you might find these series helpful.
 
-If you would like to know more about me, checkout my [personal site](prawegko.dev) or checkout my technical blog articles @ [code and curious](codeandcurious.com)
+If you would like to know more about me or my work, checkout my [personal site](prawegko.dev) or checkout my technical blog articles @ [code and curious](codeandcurious.com)
 
 ### 🔭 I’m currently working on: 
    1) Creating Content for my Blog Site [code and curious](codeandcurious.com)
