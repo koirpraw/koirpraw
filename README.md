@@ -4,7 +4,7 @@
 This is my Personal Repository .My repo  primarily consists of Flutter,React, NextJS & NodeJS projects.
 I am not attached to particular language, framework or technique so this might change over time.
 I consider myself curious and creative person. I learn by doing things, so i am constantly tinkering with things to learn.
-I have been programming and enjoying coding for just couple years now. But i have been hooked to this limitless source of dopamine. I am pretty sure i will still be digging for more in years to come aswell ;)
+I have been programming and enjoying coding for couple years now. But i have been hooked to this limitless source of dopamine. I am pretty sure i will still be digging for more in years to come ;)
 
 I have been recenlty working on API series with with all possible combinations(language, frameworks, databases , ORM/ODM and so on). I am using these projects to build different possible stacks to build FullStack Web Appliactions ( MERN, PERN ..etc). If you are new to Web development you might find these series helpful.
 
