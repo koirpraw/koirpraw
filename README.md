@@ -11,7 +11,7 @@ I have been recenlty working on API series with with all possible combinations(l
 If you would like to know more about me or my work, checkout my [personal site](prawegko.dev) or checkout my technical blog articles on my blogging site [code and curious](codeandcurious.com)
 
 ### 🔭 I’m currently working on: 
-   1) Creating Content for my Blog Site [code and curious](codeandcurious.com)
+   1) Creating Content for my Blog Site [codeandcurious.com](codeandcurious.com)
    2) Honing DSA skills with python on JupyterNotebook.
    3) Improving my technical writing skills and good documentation practice.
    4) Prepping video content for the Published Blog Articles for Youtube Channel(Yet to start).
