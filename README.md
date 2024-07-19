@@ -8,10 +8,10 @@ I have been programming and enjoying coding for couple years now. But i have bee
 
 I have been recenlty working on API series with with all possible combinations(language, frameworks, databases , ORM/ODM and so on). I am using these projects to build different possible stacks to build FullStack Web Appliactions ( MERN, PERN ..etc). If you are new to Web development you might find these series helpful.
 
-If you would like to know more about me or my work, checkout my [personal site](prawegko.dev) or checkout my technical blog articles on my blogging site [code and curious](codeandcurious.com)
+If you would like to know more about me or my work, checkout my [personal site](https://www.prawegko.dev/) or checkout my technical blog articles on my blogging site [codeandcurious.com](https://codeandcurious.com/)
 
 ### 🔭 I’m currently working on: 
-   1) Creating Content for my Blog Site [codeandcurious.com](codeandcurious.com)
+   1) Creating Content for my Blog Site [codeandcurious.com](https://codeandcurious.com/)
    2) Honing DSA skills with python on JupyterNotebook.
    3) Improving my technical writing skills and good documentation practice.
    4) Prepping video content for the Published Blog Articles for Youtube Channel(Yet to start).
