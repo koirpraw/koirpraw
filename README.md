@@ -1,8 +1,8 @@
-## Hi there 👋 Praweg here
+## Oh Hello Friend 👋
 
 ### Welcome to my digital workshop.
 This is my Personal Repository .I am a self taught programmer . I am super curious about everything and always tinkering around. My repo consists of bits and pieces of my tinkerings, most possibly in the realm of mobile, web and automation. Flutter,Expo(reactNative) React, NextJS, NodeJS,python and so on ..
-
+### And ..
 - More about me in my personal site [prawegko.dev](https://www.prawegko.dev/) .
 - I have a dedicated blog site where i like to document things i have tried and learned.[codeandcurious.com](https://codeandcurious.com/)
 
